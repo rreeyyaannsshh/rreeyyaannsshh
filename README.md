@@ -21,3 +21,5 @@ I am a data architecture and artificial intelligence professional specializing i
 * **LLM Evaluation & Data Diagnostics:** Conducted model behavior evaluation, prompt calibration, and complex timestamp/language text correction for AI training pipelines. 
 
 📫 **Open to remote opportunities**
+https://www.linkedin.com/in/prakash-pandey-a84039105/
+blogofspher@gmail.com
