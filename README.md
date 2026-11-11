@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prakash 👋
 
-<!--
-**rreeyyaannsshh/rreeyyaannsshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior AI Engineer | GCP POD Lead | Data Architect
 
-Here are some ideas to get you started:
+I am a data architecture and artificial intelligence professional specializing in building autonomous AI agents, deploying generative models, and engineering enterprise-grade data pipelines. I focus on bridging complex machine learning architectures with actionable business intelligence to drive revenue and optimize operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Core Credentials
+* **Future AWS Agentic AI Business Professional** – Udacity
+* **AWS AI Practitioner** 
+* **Postgraduate Certificate in Data Science and Machine Learning** – IIT Roorkee & Timespro 
+
+### 🛠️ Technical Arsenal
+* **AI & Machine Learning:** Agentic Workflows, Generative AI, LLM Evaluation, Reinforcement Learning from Human Feedback (RLHF), Prompt Calibration
+* **Cloud & Data Architecture:** AWS, Google Cloud Platform (GCP), Databricks, PySpark, Palantir Foundry
+* **Business Intelligence:** Amazon QuickSight, Natural Language Analytics, Interactive Dashboards
+* **Languages:** Python, SQL
+
+### 🚀 Featured Work
+* **[novatech-revenue-intelligence](https://github.com/rreeyyaannsshh/novatech-revenue-intelligence):** Integrated business intelligence pipelines utilizing Amazon QuickSight and natural language Quick Chat agents for revenue tracking and sales pipeline visualization.
+* **Agentic Task & Event Scheduling:** Architected AI-driven workflows using Whiskers for automated task orchestration and event planning.
+* **LLM Evaluation & Data Diagnostics:** Conducted model behavior evaluation, prompt calibration, and complex timestamp/language text correction for AI training pipelines. 
+
+📫 **Open to remote opportunities**
